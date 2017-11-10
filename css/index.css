@@ -1,0 +1,149 @@
+body{
+    font-family: "Microsoft Yahei", "Î¢ÈíÑÅºÚ";
+}
+img{
+    vertical-align: top;
+}
+.chri-out{
+    width: 7.5rem;
+    margin: 0 auto;
+    position: relative;
+    z-index: 1;
+}
+.chri-back{
+    width: 7.5rem;
+    position: absolute;
+}
+.chri-con{
+    position: absolute;
+    width: 7.5rem;
+    z-index: 10;
+    padding-top: 4.2rem;
+}
+.chri-h2{
+    text-align: center;
+    font-size: 0.32rem;
+    margin-top: 0.2rem;
+    margin-bottom: 0.25rem;
+    color: #c10100;
+}
+.chri-con1 p{
+    margin-left: 0.85rem;
+    line-height: 0.44rem;
+    font-size: 0.28rem;
+    color: #c10100;
+}
+.span_p{
+    margin-right: 0.1rem;
+}
+.chri-btn{
+    height: 11rem;
+    width: 7.5rem;
+    /*border: 1px solid red;*/
+    position: relative;
+}
+
+
+.chri-bottom{
+    margin-top: 0.3rem;
+    padding-left: 1.5rem;
+    height: 1.7rem;
+    overflow: hidden;
+}
+.chri-bottom p{
+    line-height: 0.44rem;
+    font-size: 0.28rem;
+
+}
+.chri-bottom ul{
+    position: relative;
+    color: #c10100;
+}
+.chri-btn span{
+    display: inline-block;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+
+
+.zc_{
+    position: fixed;
+    z-index: 30;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: #000000;
+    opacity: 0.75;
+    display: none
+}
+.chri-zhong{
+    position: fixed;
+    z-index: 40;
+    margin-left: 0.65rem;
+    top: 50%;
+    margin-top: -3.3rem;
+    display: none;
+}
+.zhong-gb{
+    display: inline-block;
+    width: 0.9rem;
+    height: 0.9rem;
+    position: absolute;
+    z-index: 50;
+    right: -0.18rem;
+    top: -0.25rem;
+}
+.zhong-p{
+    position: absolute;
+    top: 1.3rem;
+    width: 6.1rem;
+    z-index: 50;
+}
+.zhong-p p{
+    font-family: SimHei;
+    color: #c10100;
+    text-align: center;
+    letter-spacing:0.05rem  ;
+    font-size: 0.37rem;
+    margin-bottom: 0.3rem;
+}
+.Merry_{
+    font-family: Arial !important;
+    letter-spacing:0.02rem  !important; ;
+}
+.merry2_{
+    margin-top: 0.6rem !important;
+    letter-spacing:0rem  !important; ;
+    font-size: 0.28rem !important;
+}
+.iphone{
+    position: fixed;
+    z-index: 40;
+    margin-left: 0.65rem;
+    top: 50%;
+    margin-top: -3.3rem;
+    display: none;
+}
+.chri-no{
+    position: fixed;
+    z-index: 40;
+    margin-left: 0.65rem;
+    top: 50%;
+    margin-top: -3.3rem;
+    display: none;
+}
+.chri-no-p{
+    position: absolute;
+    top: 1.7rem;
+    width: 6.1rem;
+    z-index: 50;
+}
+.chri-no-p p{
+    font-family: SimHei;
+    color: #c10100;
+    margin-left: 0.9rem;
+    font-size: 0.37rem;
+    margin-bottom: 0.3rem;
+}

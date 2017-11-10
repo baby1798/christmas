@@ -1,0 +1,334 @@
+/*---------------------  span1 开始--------------------------*/
+.btn-span1{
+    width: 1.21rem;
+    height: 1.36rem;
+    position: absolute;
+    z-index: 20;
+    top: 3.23rem;
+    left: 3.6rem;
+    transform-origin: 0.5rem 0.5rem;
+
+    animation: anim1 1s infinite linear;
+    -webkit-animation: anim1 1s  infinite linear;
+    -moz-animation: anim1 1s  infinite linear;
+    -ms-animation: anim1 1s  infinite linear;
+}
+@keyframes anim1 {
+    0%{ transform: rotate(0deg) }
+    25%{ transform: rotate(6deg) }
+    /*50%{ transform: rotate(0deg) }*/
+    75%{ transform: rotate(-6deg) }
+    100%{ transform: rotate(0deg) }
+}
+
+@-webkit-keyframes anim1 {
+    0%{ transform: rotate(0deg) }
+    25%{ transform: rotate(6deg) }
+    /*50%{ transform: rotate(0deg) }*/
+    75%{ transform: rotate(-6deg) }
+    100%{ transform: rotate(0deg) }
+}
+@-moz-keyframes anim1 {
+    0%{ transform: rotate(0deg) }
+    25%{ transform: rotate(6deg) }
+    /*50%{ transform: rotate(0deg) }*/
+    75%{ transform: rotate(-6deg) }
+    100%{ transform: rotate(0deg) }
+}
+@-ms-keyframes anim1 {
+    0%{ transform: rotate(0deg) }
+    25%{ transform: rotate(6deg) }
+    /*50%{ transform: rotate(0deg) }*/
+    75%{ transform: rotate(-6deg) }
+    100%{ transform: rotate(0deg) }
+}
+
+
+
+
+
+
+
+/*----------------------span1 结束-------------------------*/
+
+/*----------------------span2 开始-------------------------*/
+.btn-span2{
+    width: 1.20rem;
+    height: 1.20rem;
+    position: absolute;
+    z-index: 20;
+    top: 4.95rem;
+    left: 2.55rem;
+    transform-origin: 0.44rem 0.5rem;
+    animation: anim2 1.3s infinite linear;
+    -webkit-animation: anim2 1.3s  infinite linear;
+    -moz-animation: anim2 1.3s  infinite linear;
+    -ms-animation: anim2 1.3s  infinite linear;
+}
+@keyframes anim2 {
+    0%{ transform: rotate(0deg) }
+    25%{ transform: rotate(10deg) }
+    /*50%{ transform: rotate(0deg) }*/
+    75%{ transform: rotate(-10deg) }
+    100%{ transform: rotate(0deg) }
+}
+
+@-webkit-keyframes anim2 {
+    0%{ transform: rotate(0deg) }
+    25%{ transform: rotate(10deg) }
+    /*50%{ transform: rotate(0deg) }*/
+    75%{ transform: rotate(-10deg) }
+    100%{ transform: rotate(0deg) }
+}
+@-moz-keyframes anim2 {
+    0%{ transform: rotate(0deg) }
+    25%{ transform: rotate(10deg) }
+    /*50%{ transform: rotate(0deg) }*/
+    75%{ transform: rotate(-10deg) }
+    100%{ transform: rotate(0deg) }
+}
+@-ms-keyframes anim2 {
+    0%{ transform: rotate(0deg) }
+    25%{ transform: rotate(10deg) }
+    /*50%{ transform: rotate(0deg) }*/
+    75%{ transform: rotate(-10deg) }
+    100%{ transform: rotate(0deg) }
+}
+
+/*------------------- span2 结束----------------------------*/
+
+/*--------------------span3 开始---------------------------*/
+.btn-span3{
+    width: 1.19rem;
+    height: 1.41rem;
+    position: absolute;
+    z-index: 20;
+    top: 5.16rem;
+    left: 4.25rem;
+    transform-origin: 0.5rem 0.3rem;
+    animation: anim3 2s infinite linear;
+    -webkit-animation: anim3 2s  infinite linear;
+    -moz-animation: anim3 2s  infinite linear;
+    -ms-animation: anim3 2s  infinite linear;
+}
+@keyframes anim3 {
+    0%{ transform: rotate(0deg) }
+    25%{ transform: rotate(15deg) }
+    /*50%{ transform: rotate(0deg) }*/
+    75%{ transform: rotate(-15deg) }
+    100%{ transform: rotate(0deg) }
+}
+@-webkit-keyframes anim3 {
+    0%{ transform: rotate(0deg) }
+    25%{ transform: rotate(15deg) }
+    /*50%{ transform: rotate(0deg) }*/
+    75%{ transform: rotate(-15deg) }
+    100%{ transform: rotate(0deg) }
+}
+
+@-moz-keyframes anim3 {
+    0%{ transform: rotate(0deg) }
+    25%{ transform: rotate(15deg) }
+    /*50%{ transform: rotate(0deg) }*/
+    75%{ transform: rotate(-15deg) }
+    100%{ transform: rotate(0deg) }
+}
+
+@-ms-keyframes anim3 {
+    0%{ transform: rotate(0deg) }
+    25%{ transform: rotate(15deg) }
+    /*50%{ transform: rotate(0deg) }*/
+    75%{ transform: rotate(-15deg) }
+    100%{ transform: rotate(0deg) }
+}
+
+
+/*--------------------span3 结束--------------------------*/
+
+/*-------------------span4 开始----------------------------*/
+.btn-span4{
+    width: 1.24rem;
+    height: 1.24rem;
+    position: absolute;
+    z-index: 20;
+    top: 6.38rem;
+    left: 1.81rem;
+    transform-origin: 0.44rem -0.3rem;
+    animation: anim4 2.5s infinite linear;
+    -webkit-animation: anim4 2.5s  infinite linear;
+    -moz-animation: anim4 2.5s  infinite linear;
+    -ms-animation: anim4 2.5s  infinite linear;
+}
+@keyframes anim4 {
+    0%{ transform: rotate(0deg) }
+    25%{ transform: rotate(-13deg) }
+    /*50%{ transform: rotate(0deg) }*/
+    75%{ transform: rotate(13deg) }
+    100%{ transform: rotate(0deg) }
+}
+@-webkit-keyframes anim4 {
+    0%{ transform: rotate(0deg) }
+    25%{ transform: rotate(-13deg) }
+    /*50%{ transform: rotate(0deg) }*/
+    75%{ transform: rotate(13deg) }
+    100%{ transform: rotate(0deg) }
+}
+
+@-moz-keyframes anim4 {
+    0%{ transform: rotate(0deg) }
+    25%{ transform: rotate(-13deg) }
+    /*50%{ transform: rotate(0deg) }*/
+    75%{ transform: rotate(13deg) }
+    100%{ transform: rotate(0deg) }
+}
+@-ms-keyframes anim4 {
+    0%{ transform: rotate(0deg) }
+    25%{ transform: rotate(-13deg) }
+    /*50%{ transform: rotate(0deg) }*/
+    75%{ transform: rotate(13deg) }
+    100%{ transform: rotate(0deg) }
+}
+
+
+
+
+
+/*-------------------span4 结束----------------------------*/
+/*-------------------span5 开始----------------------------*/
+.btn-span5{
+    width: 1.13rem;
+    height: 1.36rem;
+    position: absolute;
+    z-index: 20;
+    top: 6.67rem;
+    left: 3.6rem;
+    transform-origin: 0.44rem 0rem;
+    animation: anim5 1.5s infinite linear;
+    -webkit-animation: anim5 1.5s  infinite linear;
+    -moz-animation: anim5 1.5s  infinite linear;
+    -ms-animation: anim5 1.5s  infinite linear;
+}
+@keyframes anim5 {
+    0%{ transform: rotate(0deg) }
+    25%{ transform: rotate(10deg) }
+    /*50%{ transform: rotate(0deg) }*/
+    75%{ transform: rotate(-15deg) }
+    100%{ transform: rotate(0deg) }
+}
+@-webkit-keyframes anim5 {
+    0%{ transform: rotate(0deg) }
+    25%{ transform: rotate(10deg) }
+    /*50%{ transform: rotate(0deg) }*/
+    75%{ transform: rotate(-15deg) }
+    100%{ transform: rotate(0deg) }
+}
+
+@-moz-keyframes anim5 {
+    0%{ transform: rotate(0deg) }
+    25%{ transform: rotate(10deg) }
+    /*50%{ transform: rotate(0deg) }*/
+    75%{ transform: rotate(-15deg) }
+    100%{ transform: rotate(0deg) }
+}
+@-ms-keyframes anim5 {
+    0%{ transform: rotate(0deg) }
+    25%{ transform: rotate(10deg) }
+    /*50%{ transform: rotate(0deg) }*/
+    75%{ transform: rotate(-15deg) }
+    100%{ transform: rotate(0deg) }
+}
+
+
+/*-------------------span5 结束----------------------------*/
+/*-------------------span6 开始--------------------------------------*/
+.btn-span6{
+    width: 1.21rem;
+    height: 1.36rem;
+    position: absolute;
+    z-index: 20;
+    top: 8.23rem;
+    left: 2.16rem;
+    transform-origin: 0.6rem 0.5rem;
+    animation: anim6 1.2s infinite linear;
+    -webkit-animation: anim6 1.2s  infinite linear;
+    -moz-animation: anim6 1.2s  infinite linear;
+    -ms-animation: anim6 1.2s  infinite linear;
+}
+@keyframes anim6 {
+    0%{ transform: rotate(0deg) }
+    25%{ transform: rotate(15deg) }
+    /*50%{ transform: rotate(0deg) }*/
+    75%{ transform: rotate(-15deg) }
+    100%{ transform: rotate(0deg) }
+}
+@-webkit-keyframes anim6 {
+    0%{ transform: rotate(0deg) }
+    25%{ transform: rotate(15deg) }
+    /*50%{ transform: rotate(0deg) }*/
+    75%{ transform: rotate(-15deg) }
+    100%{ transform: rotate(0deg) }
+}
+
+@-moz-keyframes anim6 {
+    0%{ transform: rotate(0deg) }
+    25%{ transform: rotate(15deg) }
+    /*50%{ transform: rotate(0deg) }*/
+    75%{ transform: rotate(-15deg) }
+    100%{ transform: rotate(0deg) }
+}
+
+@-ms-keyframes anim6 {
+    0%{ transform: rotate(0deg) }
+    25%{ transform: rotate(15deg) }
+    /*50%{ transform: rotate(0deg) }*/
+    75%{ transform: rotate(-15deg) }
+    100%{ transform: rotate(0deg) }
+}
+
+
+
+/*-------------------span6 结束--------------------------------------*/
+/*-------------------span7 开始--------------------------------------*/
+.btn-span7{
+    width: 1.21rem;
+    height: 1.20rem;
+    position: absolute;
+    z-index: 20;
+    top: 8.08rem;
+    left: 4.63rem;
+    transform-origin: 0.6rem 0.5rem;
+    animation: anim7 2s infinite linear;
+    -webkit-animation: anim7 2s  infinite linear;
+    -moz-animation: anim7 2s  infinite linear;
+    -ms-animation: anim7 2s  infinite linear;
+}
+@keyframes anim7 {
+    0%{ transform: rotate(0deg) }
+    25%{ transform: rotate(20deg) }
+    /*50%{ transform: rotate(0deg) }*/
+    75%{ transform: rotate(-15deg) }
+    100%{ transform: rotate(0deg) }
+}
+@-webkit-keyframes anim7 {
+    0%{ transform: rotate(0deg) }
+    25%{ transform: rotate(20deg) }
+    /*50%{ transform: rotate(0deg) }*/
+    75%{ transform: rotate(-15deg) }
+    100%{ transform: rotate(0deg) }
+}
+
+@-moz-keyframes anim7 {
+    0%{ transform: rotate(0deg) }
+    25%{ transform: rotate(20deg) }
+    /*50%{ transform: rotate(0deg) }*/
+    75%{ transform: rotate(-15deg) }
+    100%{ transform: rotate(0deg) }
+}
+@-ms-keyframes anim7 {
+    0%{ transform: rotate(0deg) }
+    25%{ transform: rotate(20deg) }
+    /*50%{ transform: rotate(0deg) }*/
+    75%{ transform: rotate(-15deg) }
+    100%{ transform: rotate(0deg) }
+}
+/*-------------------span7 结束--------------------------------------*/
